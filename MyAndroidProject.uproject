@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{24E6A22E-4621-5181-DF33-9FB2A29F9D1A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyAndroidProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
